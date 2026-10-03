@@ -2,17 +2,32 @@
 
 ## Python
 
+暂无文章。
+
 ## AI Tools
+
+暂无文章。
 
 ## Security
 
+暂无文章。
+
 ## Git / GitHub
+
+暂无文章。
 
 ## Automation
 
+暂无文章。
+
 ## Open Source
+
+暂无文章。
 
 ## Engineering
 
+暂无文章。
+
 ## Trends
-- 2026-10-04 — [从 Demo 到可维护系统：给 AI 应用加一层可观测性](2026/10-October/trends/2026-10-04-ai-observability.md)
+
+- 2026-10-04 — [AI Agent 开始替你做事后，先给它加一扇可审批的门](2026/10-October/trends/2026-10-04-ai-agent-approval-gateway.md)
