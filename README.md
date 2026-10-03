@@ -9,12 +9,13 @@
 - 最新主题：[AI Agent 开始替你做事后，先给它加一扇可审批的门](2026/10-October/trends/2026-10-04-ai-agent-approval-gateway.md)
 - 当前分类：trends 1 篇
 
-## 持续改进
-
-这个仓库会根据实际任务结果持续优化写作、验证、发布和索引流程。
+## 工程化机制
 
 - [持续改进机制](CONTINUOUS_IMPROVEMENT.md)
 - [改进日志](IMPROVEMENT_LOG.md)
+- [发布质量门禁](QUALITY_GATE.md)
+- [回归检查清单](REGRESSION_CHECKLIST.md)
+- [改进记录规范](IMPROVEMENT_RECORD_SPEC.md)
 
 ## 按主题
 
