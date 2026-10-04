@@ -2,7 +2,7 @@
 
 ## Python
 
-暂无文章。
+- 2026-10-05 — [别急着删文件：用 Python 做一个安全的重复文件扫描器](2026/10-October/python/2026-10-05-file-deduplicator.md)
 
 ## AI Tools
 
