@@ -6,7 +6,7 @@
 
 ## AI Tools
 
-暂无文章。
+- 2026-10-06 — [别只给 AI 写提示词：给输出加一个可验证的契约](2026/10-October/ai-tools/2026-10-06-ai-output-contract.md)
 
 ## Security
 
