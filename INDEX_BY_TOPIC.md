@@ -10,7 +10,7 @@
 
 ## Security
 
-暂无文章。
+- 2026-10-07 — [别等密钥泄漏后再处理：用 Python 做一个提交前的敏感信息扫描器](2026/10-October/security/2026-10-07-secret-scanner.md)
 
 ## Git / GitHub
 
