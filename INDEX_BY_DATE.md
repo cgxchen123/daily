@@ -2,6 +2,7 @@
 
 ## 2026-10-07
 
+- [定时任务最怕重复执行：用 SQLite 做一个可恢复的幂等锁](2026/10-October/automation/2026-10-07-idempotent-job-lock.md) — automation · intermediate
 - [别等密钥泄漏后再处理：用 Python 做一个提交前的敏感信息扫描器](2026/10-October/security/2026-10-07-secret-scanner.md) — security · intermediate
 
 ## 2026-10-06

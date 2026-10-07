@@ -18,7 +18,7 @@
 
 ## Automation
 
-暂无文章。
+- 2026-10-07 — [定时任务最怕重复执行：用 SQLite 做一个可恢复的幂等锁](2026/10-October/automation/2026-10-07-idempotent-job-lock.md)
 
 ## Open Source
 
