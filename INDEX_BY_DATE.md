@@ -1,5 +1,9 @@
 # 按日期索引
 
+## 2026-10-08
+
+- [别让 GitHub Actions 拿到多余权限：用 Python 做一个工作流审计器](2026/10-October/git-github/2026-10-08-github-actions-permission-auditor.md) — git-github · intermediate
+
 ## 2026-10-07
 
 - [定时任务最怕重复执行：用 SQLite 做一个可恢复的幂等锁](2026/10-October/automation/2026-10-07-idempotent-job-lock.md) — automation · intermediate

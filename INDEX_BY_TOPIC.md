@@ -14,7 +14,7 @@
 
 ## Git / GitHub
 
-暂无文章。
+- 2026-10-08 — [别让 GitHub Actions 拿到多余权限：用 Python 做一个工作流审计器](2026/10-October/git-github/2026-10-08-github-actions-permission-auditor.md)
 
 ## Automation
 
