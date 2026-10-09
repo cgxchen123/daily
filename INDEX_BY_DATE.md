@@ -1,5 +1,9 @@
 # 按日期索引
 
+## 2026-10-09
+
+- [下载开源发布包后，先验 SHA-256：一个零依赖校验器](2026/10-October/open-source/2026-10-09-verify-release-sha256.md) — open-source · beginner
+
 ## 2026-10-08
 
 - [别让 GitHub Actions 拿到多余权限：用 Python 做一个工作流审计器](2026/10-October/git-github/2026-10-08-github-actions-permission-auditor.md) — git-github · intermediate

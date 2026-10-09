@@ -22,7 +22,7 @@
 
 ## Open Source
 
-暂无文章。
+- 2026-10-09 — [下载开源发布包后，先验 SHA-256：一个零依赖校验器](2026/10-October/open-source/2026-10-09-verify-release-sha256.md)
 
 ## Engineering
 

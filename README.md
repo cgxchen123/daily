@@ -4,13 +4,14 @@
 
 ## 📊 仓库统计
 
-- 总文章数：6
-- 最后更新：2026-10-08
-- 覆盖分类：ai-tools、automation、git-github、python、security、trends
+- 总文章数：7
+- 最后更新：2026-10-09
+- 覆盖分类：ai-tools、automation、git-github、open-source、python、security、trends
 - 起始日期：2026-10-04
 
 ## 🔥 最新文章
 
+- [2026-10-09 — 下载开源发布包后，先验 SHA-256：一个零依赖校验器](2026/10-October/open-source/2026-10-09-verify-release-sha256.md)
 - [2026-10-08 — 别让 GitHub Actions 拿到多余权限：用 Python 做一个工作流审计器](2026/10-October/git-github/2026-10-08-github-actions-permission-auditor.md)
 - [2026-10-07 — 定时任务最怕重复执行：用 SQLite 做一个可恢复的幂等锁](2026/10-October/automation/2026-10-07-idempotent-job-lock.md)
 - [2026-10-07 — 别等密钥泄漏后再处理：用 Python 做一个提交前的敏感信息扫描器](2026/10-October/security/2026-10-07-secret-scanner.md)
@@ -31,6 +32,7 @@
 
 ## 📅 按日期浏览
 
+- [2026-10-09](INDEX_BY_DATE.md#2026-10-09)
 - [2026-10-08](INDEX_BY_DATE.md#2026-10-08)
 - [2026-10-07](INDEX_BY_DATE.md#2026-10-07)
 - [2026-10-06](INDEX_BY_DATE.md#2026-10-06)
