@@ -26,7 +26,7 @@
 
 ## Engineering
 
-暂无文章。
+- 2026-10-10 — [别让命令行工具只会报错：用 Python 统一日志、JSON 输出与退出码](2026/10-October/engineering/2026-10-10-python-cli-json-errors.md)
 
 ## Trends
 
