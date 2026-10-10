@@ -1,5 +1,16 @@
 # 改进日志
 
+## 2026-10-11
+
+### IMP-009
+- 问题：读取 `fetch_commit` 的标准化返回值时没有暴露 `tree.sha`，上轮因此把树读取能力缺口当成了停止条件。
+- 证据等级：P0
+- 根因：没有继续使用已连接 GitHub 工具提供的只读通用 `fetch`，读取 Git Data API 的 commit 和 recursive tree 资源。
+- 改动：新增候选做法：当标准化提交响应不包含树字段时，先只读请求 `/git/commits/{sha}` 取得 tree SHA，再请求 `/git/trees/{tree_sha}?recursive=1` 核对完整目录；写入仍必须走 Blob → Tree → Commit → `update_ref(force=false)`。
+- 验证方式：本轮从远端读取 commit `19801f0b59f801357c94c0d3261e62f849dc1d7b` 的 tree `8383748ada163565d200e160ad128165041ada55`，递归树返回 7 篇文章及所有根目录质量文件，`truncated=false`。
+- 结果：本轮实际读取成功，恢复了基线树核验能力；待后续独立任务再次验证。
+- 状态：候选。
+
 ## 2026-10-07
 
 ### IMP-008

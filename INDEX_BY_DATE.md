@@ -1,5 +1,9 @@
 # 按日期索引
 
+## 2026-10-11
+
+- [RAG 检索效果别靠感觉：用 Recall@K 和 MRR 做离线回归](2026/10-October/trends/2026-10-11-rag-retrieval-offline-evaluation.md) — trends · beginner
+
 ## 2026-10-09
 
 - [下载开源发布包后，先验 SHA-256：一个零依赖校验器](2026/10-October/open-source/2026-10-09-verify-release-sha256.md) — open-source · beginner
