@@ -30,5 +30,6 @@
 
 ## Trends
 
+- 2026-10-11 — [AI 编码任务并行时，别共用一个工作目录：用 Git worktree 做隔离](2026/10-October/trends/2026-10-11-ai-coding-worktree-isolation.md)
 - 2026-10-11 — [RAG 检索效果别靠感觉：用 Recall@K 和 MRR 做离线回归](2026/10-October/trends/2026-10-11-rag-retrieval-offline-evaluation.md)
 - 2026-10-04 — [AI Agent 开始替你做事后，先给它加一扇可审批的门](2026/10-October/trends/2026-10-04-ai-agent-approval-gateway.md)

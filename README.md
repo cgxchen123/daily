@@ -4,13 +4,15 @@
 
 ## 📊 仓库统计
 
-- 总文章数：9
+- 总文章数：10
 - 最后更新：2026-10-11
 - 覆盖分类：ai-tools、automation、engineering、git-github、open-source、python、security、trends
+- 分类统计：python 1、ai-tools 1、security 1、git-github 1、automation 1、open-source 1、engineering 1、trends 3
 - 起始日期：2026-10-04
 
 ## 🔥 最新文章
 
+- [2026-10-11 — AI 编码任务并行时，别共用一个工作目录：用 Git worktree 做隔离](2026/10-October/trends/2026-10-11-ai-coding-worktree-isolation.md)
 - [2026-10-11 — RAG 检索效果别靠感觉：用 Recall@K 和 MRR 做离线回归](2026/10-October/trends/2026-10-11-rag-retrieval-offline-evaluation.md)
 - [2026-10-10 — 别让命令行工具只会报错：用 Python 统一日志、JSON 输出与退出码](2026/10-October/engineering/2026-10-10-python-cli-json-errors.md)
 - [2026-10-09 — 下载开源发布包后，先验 SHA-256：一个零依赖校验器](2026/10-October/open-source/2026-10-09-verify-release-sha256.md)

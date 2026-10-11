@@ -2,6 +2,7 @@
 
 ## 2026-10-11
 
+- [AI 编码任务并行时，别共用一个工作目录：用 Git worktree 做隔离](2026/10-October/trends/2026-10-11-ai-coding-worktree-isolation.md) — trends · intermediate
 - [RAG 检索效果别靠感觉：用 Recall@K 和 MRR 做离线回归](2026/10-October/trends/2026-10-11-rag-retrieval-offline-evaluation.md) — trends · beginner
 
 ## 2026-10-10

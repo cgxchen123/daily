@@ -1,4 +1,4 @@
-# 持续改进机制 v1.1
+# 持续改进机制 v1.2
 
 这个仓库不仅每天发布文章，也每天复盘“发布系统本身”。
 
@@ -82,6 +82,11 @@ P3 不得单独支撑文章事实性结论，也不得单独支撑长期规则�
 状态：已采用。
 
 ### 2026-10-04：持续改进分为“规则层 + 证据日志层”
+状态：已采用。
+
+### 2026-10-11：标准化提交读取不含 tree SHA 时，使用只读 Git Data API
+证据：本轮再次读取 commit `4004b1cc88d2abefc2051bcc6f34936f218ea788` 的 tree `5545d1f96d26d3bfe15ef7753c8a8653de767ad6`，递归树 `truncated=false`，完整列出文章路径与根目录质量文件。
+规则：当标准化提交响应未提供 tree SHA 时，先只读获取 `/git/commits/{sha}` 的 `tree.sha`，再读取 `/git/trees/{tree_sha}?recursive=1`；若返回 `truncated=true`，不得把部分目录当成完整基线。写入仍必须走 Blob → Tree → Commit → `update_ref(force=false)`。
 状态：已采用。
 
 ### 2026-10-04：增加发布质量门禁和回归检查
