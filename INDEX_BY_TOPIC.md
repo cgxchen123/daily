@@ -2,6 +2,10 @@
 
 ## Python
 
+- 2026-01-18 — [处理时间戳时优先使用带时区的 datetime](2026/01-January/python/2026-01-18-datetime-timezone-aware.md)
+- 2026-01-11 — [用 argparse 构建有明确错误提示的命令行工具](2026/01-January/python/2026-01-11-argparse-cli-validation.md)
+
+
 - 2026-01-07 — [读 CSV 时显式处理编码与错误策略](2026/01-January/python/2026-01-07-csv-encoding-detection.md)
 - 2026-01-02 — [拼接文件路径前先限制输入范围](2026/01-January/python/2026-01-02-safe-path-join.md)
 
@@ -12,10 +16,17 @@
 
 ## AI Tools
 
+- 2026-01-13 — [把提示注入当作输入边界问题，而不是提示词技巧](2026/01-January/ai-tools/2026-01-13-llm-prompt-injection-boundary.md)
+
+
 - 2026-10-13 — [让模型输出 JSON 更可靠：把解析、校验和重试分开](2026/10-October/ai-tools/2026-10-13-llm-json-contract.md)
 - 2026-10-06 — [ai output contract](2026/10-October/ai-tools/2026-10-06-ai-output-contract.md)
 
 ## Security
+
+- 2026-01-19 — [给 API 令牌最小权限，并建立轮换和撤销流程](2026/01-January/security/2026-01-19-least-privilege-api-tokens.md)
+- 2026-01-12 — [避免命令注入：不要把用户输入拼进 shell 字符串](2026/01-January/security/2026-01-12-avoid-shell-injection.md)
+
 
 - 2026-01-08 — [文件上传必须限制大小和类型](2026/01-January/security/2026-01-08-validate-upload-size.md)
 - 2026-01-03 — [日志需要排错信息，但不应该泄露密钥](2026/01-January/security/2026-01-03-redact-secrets-from-logs.md)
@@ -27,6 +38,9 @@
 
 ## Git / GitHub
 
+- 2026-01-16 — [用分支保护减少直接推送到 main 的风险](2026/01-January/git-github/2026-01-16-protect-main-branch.md)
+
+
 - 2026-01-04 — [撤销 Git 修改前，先分清暂存区和工作区](2026/01-January/git-github/2026-01-04-git-restore-staged-vs-worktree.md)
 
 
@@ -34,6 +48,9 @@
 - 2026-10-08 — [github actions permission auditor](2026/10-October/git-github/2026-10-08-github-actions-permission-auditor.md)
 
 ## Automation
+
+- 2026-01-17 — [用临时文件和原子替换避免写出半份配置](2026/01-January/automation/2026-01-17-atomic-file-write.md)
+
 
 - 2026-01-10 — [调用外部命令时必须处理超时与退出码](2026/01-January/automation/2026-01-10-subprocess-timeout-and-exit-code.md)
 - 2026-01-05 — [批处理任务要能安全重跑：从幂等性开始](2026/01-January/automation/2026-01-05-idempotent-file-processing.md)
@@ -44,6 +61,9 @@
 
 ## Open Source
 
+- 2026-01-15 — [引入开源项目之前，先核对许可证和使用方式](2026/01-January/open-source/2026-01-15-read-license-before-adopting.md)
+
+
 - 2026-01-06 — [依赖版本要可复现：不要把安装结果交给运气](2026/01-January/open-source/2026-01-06-pin-dependencies.md)
 
 
@@ -51,6 +71,9 @@
 - 2026-10-09 — [verify release sha256](2026/10-October/open-source/2026-10-09-verify-release-sha256.md)
 
 ## Engineering
+
+- 2026-01-14 — [给程序错误定义稳定的错误码，别让调用方解析文案](2026/01-January/engineering/2026-01-14-structured-error-codes.md)
+
 
 - 2026-01-09 — [健康检查要区分进程存活与服务就绪](2026/01-January/engineering/2026-01-09-health-check-vs-readiness.md)
 - 2026-01-01 — [从一开始就把 Python 项目目录分清楚](2026/01-January/engineering/2026-01-01-python-project-layout.md)
@@ -61,6 +84,9 @@
 - 2026-10-10 — [python cli json errors](2026/10-October/engineering/2026-10-10-python-cli-json-errors.md)
 
 ## Trends
+
+- 2026-01-20 — [评估 AI 功能时先建立非 AI 基线](2026/01-January/trends/2026-01-20-evaluate-ai-feature-with-baseline.md)
+
 
 - 2026-10-19 — [评估 RAG 别只看几个案例：建立可复现的检索测试集](2026/10-October/trends/2026-10-19-rag-retrieval-testset.md)
 - 2026-10-11 — [ai coding worktree isolation](2026/10-October/trends/2026-10-11-ai-coding-worktree-isolation.md)

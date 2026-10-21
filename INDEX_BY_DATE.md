@@ -117,3 +117,43 @@
 ## 2026-01-01
 
 - [从一开始就把 Python 项目目录分清楚](2026/01-January/engineering/2026-01-01-python-project-layout.md) — engineering
+
+## 2026-01-20
+
+- [评估 AI 功能时先建立非 AI 基线](2026/01-January/trends/2026-01-20-evaluate-ai-feature-with-baseline.md) — trends
+
+## 2026-01-19
+
+- [给 API 令牌最小权限，并建立轮换和撤销流程](2026/01-January/security/2026-01-19-least-privilege-api-tokens.md) — security
+
+## 2026-01-18
+
+- [处理时间戳时优先使用带时区的 datetime](2026/01-January/python/2026-01-18-datetime-timezone-aware.md) — python
+
+## 2026-01-17
+
+- [用临时文件和原子替换避免写出半份配置](2026/01-January/automation/2026-01-17-atomic-file-write.md) — automation
+
+## 2026-01-16
+
+- [用分支保护减少直接推送到 main 的风险](2026/01-January/git-github/2026-01-16-protect-main-branch.md) — git-github
+
+## 2026-01-15
+
+- [引入开源项目之前，先核对许可证和使用方式](2026/01-January/open-source/2026-01-15-read-license-before-adopting.md) — open-source
+
+## 2026-01-14
+
+- [给程序错误定义稳定的错误码，别让调用方解析文案](2026/01-January/engineering/2026-01-14-structured-error-codes.md) — engineering
+
+## 2026-01-13
+
+- [把提示注入当作输入边界问题，而不是提示词技巧](2026/01-January/ai-tools/2026-01-13-llm-prompt-injection-boundary.md) — ai-tools
+
+## 2026-01-12
+
+- [避免命令注入：不要把用户输入拼进 shell 字符串](2026/01-January/security/2026-01-12-avoid-shell-injection.md) — security
+
+## 2026-01-11
+
+- [用 argparse 构建有明确错误提示的命令行工具](2026/01-January/python/2026-01-11-argparse-cli-validation.md) — python
