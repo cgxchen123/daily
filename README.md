@@ -4,11 +4,11 @@
 
 ## 仓库统计
 
-- 总文章数：21
+- 总文章数：31
 - 最后更新：2026-10-22
 - 覆盖分类：python、ai-tools、security、git-github、automation、open-source、engineering、trends
-- 分类统计：python 3、ai-tools 2、security 3、git-github 2、automation 2、open-source 2、engineering 3、trends 4
-- 起始日期：2026-10-04
+- 分类统计：python 5、ai-tools 2、security 5、git-github 3、automation 4、open-source 3、engineering 5、trends 4
+- 起始日期：2026-01-01
 
 ## 最新文章
 
