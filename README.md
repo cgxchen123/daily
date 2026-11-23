@@ -4,15 +4,16 @@
 
 ## 仓库统计
 
-- 总文章数：297
-- 最后更新：2026-10-22
+- 总文章数：298
+- 最后更新：2026-10-23
 - 覆盖分类：python、ai-tools、security、git-github、automation、open-source、engineering、trends
-- 分类统计：python 41、ai-tools 36、security 35、git-github 35、automation 36、open-source 34、engineering 42、trends 38
+- 分类统计：python 41、ai-tools 36、security 35、git-github 35、automation 36、open-source 35、engineering 42、trends 38
 - 起始日期：2026-01-01
-- 日期覆盖：2026-01-01 至 2026-10-22，共 295 个自然日；现有文章文件 297 篇。历史文件中 2026-10-07 和 2026-10-11 各有两篇，未擅自删除历史文件。
+- 日期覆盖：2026-01-01 至 2026-10-23，共 296 个自然日；现有文章文件 298 篇。当前仍缺 2026-10-24 至 2026-11-23 的 31 个自然日；历史文件中 2026-10-07 和 2026-10-11 各有两篇，未擅自删除历史文件。
 
 ## 最新文章
 
+- [2026-10-23 — 发布 Python wheel 前，先核对包内文件与 RECORD](2026/10-October/open-source/2026-10-23-python-wheel-record-auditor.md)
 - [2026-10-22 — 发布前做一份可核验清单：版本、测试、变更与回滚边界](2026/10-October/engineering/2026-10-22-release-evidence-checklist.md)
 - [2026-10-21 — 依赖漏洞扫描结果如何处理：从告警到可追踪修复](2026/10-October/security/2026-10-21-vulnerability-triage-record.md)
 - [2026-10-20 — 批量处理 CSV 前先验证列名：避免静默丢数据](2026/10-October/python/2026-10-20-csv-header-validation.md)
@@ -24,7 +25,6 @@
 - [2026-10-14 — 避免把 API 密钥写进仓库：用环境变量与启动前检查](2026/10-October/security/2026-10-14-environment-secret-check.md)
 - [2026-10-13 — 让模型输出 JSON 更可靠：把解析、校验和重试分开](2026/10-October/ai-tools/2026-10-13-llm-json-contract.md)
 - [2026-10-12 — 处理大文件别一次性读入内存：用 Python 流式校验 JSONL](2026/10-October/python/2026-10-12-jsonl-stream-validation.md)
-- [2026-10-11 — ai coding worktree isolation](2026/10-October/trends/2026-10-11-ai-coding-worktree-isolation.md)
 
 ## 按主题浏览
 
@@ -39,6 +39,7 @@
 
 ## 按日期浏览
 
+- [2026-10-23](INDEX_BY_DATE.md#2026-10-23)
 - [2026-10-22](INDEX_BY_DATE.md#2026-10-22)
 - [2026-10-21](INDEX_BY_DATE.md#2026-10-21)
 - [2026-10-20](INDEX_BY_DATE.md#2026-10-20)

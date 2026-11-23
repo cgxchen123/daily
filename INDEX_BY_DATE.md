@@ -1,5 +1,9 @@
 # 按日期索引
 
+## 2026-10-23
+
+- [发布 Python wheel 前，先核对包内文件与 RECORD](2026/10-October/open-source/2026-10-23-python-wheel-record-auditor.md) — open-source
+
 ## 2026-10-22
 
 - [发布前做一份可核验清单：版本、测试、变更与回滚边界](2026/10-October/engineering/2026-10-22-release-evidence-checklist.md) — engineering

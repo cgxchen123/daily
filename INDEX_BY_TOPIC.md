@@ -235,6 +235,7 @@
 - 2026-01-15 — [引入开源项目之前，先核对许可证和使用方式](2026/01-January/open-source/2026-01-15-read-license-before-adopting.md)
 - 2026-01-06 — [依赖版本要可复现：不要把安装结果交给运气](2026/01-January/open-source/2026-01-06-pin-dependencies.md)
 
+- 2026-10-23 — [发布 Python wheel 前，先核对包内文件与 RECORD](2026/10-October/open-source/2026-10-23-python-wheel-record-auditor.md)
 ## Engineering
 
 - 2026-10-22 — [发布前做一份可核验清单：版本、测试、变更与回滚边界](2026/10-October/engineering/2026-10-22-release-evidence-checklist.md)
