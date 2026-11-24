@@ -1,5 +1,9 @@
 # 按日期索引
 
+## 2026-10-24
+
+- [Python 长任务如何优雅停机：完成当前任务，再从结果文件续跑](2026/10-October/engineering/2026-10-24-python-graceful-shutdown-batch-jobs.md) — engineering
+
 ## 2026-10-23
 
 - [发布 Python wheel 前，先核对包内文件与 RECORD](2026/10-October/open-source/2026-10-23-python-wheel-record-auditor.md) — open-source
