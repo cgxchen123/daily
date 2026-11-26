@@ -284,6 +284,7 @@
 
 ## Trends
 
+- 2026-10-25 — [Agent 工作流别只记最终答案：用 trace_id 串起工具调用](2026/10-October/trends/2026-10-25-agent-workflow-trace-context.md)
 - 2026-10-19 — [评估 RAG 别只看几个案例：建立可复现的检索测试集](2026/10-October/trends/2026-10-19-rag-retrieval-testset.md)
 - 2026-10-11 — [rag retrieval offline evaluation](2026/10-October/trends/2026-10-11-rag-retrieval-offline-evaluation.md)
 - 2026-10-11 — [ai coding worktree isolation](2026/10-October/trends/2026-10-11-ai-coding-worktree-isolation.md)

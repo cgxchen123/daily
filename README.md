@@ -4,15 +4,16 @@
 
 ## 仓库统计
 
-- 总文章数：299
-- 最后更新：2026-11-26（最新归档文章日期：2026-10-24）
+- 总文章数：300
+- 最后更新：2026-11-26（最新归档文章日期：2026-10-25）
 - 覆盖分类：python、ai-tools、security、git-github、automation、open-source、engineering、trends
-- 分类统计：python 41、ai-tools 36、security 35、git-github 35、automation 36、open-source 35、engineering 43、trends 38
+- 分类统计：python 41、ai-tools 36、security 35、git-github 35、automation 36、open-source 35、engineering 43、trends 39
 - 起始日期：2026-01-01
-- 日期覆盖：2026-01-01 至 2026-10-24，共 297 个已覆盖自然日；现有文章文件 299 篇。当前仍缺 2026-10-25 至 2026-11-26 的 33 个自然日；历史文件中 2026-10-07（2 篇）、2026-10-11（2 篇），未擅自删除历史文件。
+- 日期覆盖：2026-01-01 至 2026-10-25，共 298 个已覆盖自然日；现有文章文件 300 篇。当前仍缺 2026-10-26 至 2026-11-26 的 32 个自然日；历史文件中 2026-10-07（2 篇）、2026-10-11（2 篇），未擅自删除历史文件。
 
 ## 最新文章
 
+- [2026-10-25 — Agent 工作流别只记最终答案：用 trace_id 串起工具调用](2026/10-October/trends/2026-10-25-agent-workflow-trace-context.md)
 - [2026-10-24 — Python 长任务如何优雅停机：完成当前任务，再从结果文件续跑](2026/10-October/engineering/2026-10-24-python-graceful-shutdown-batch-jobs.md)
 - [2026-10-23 — 发布 Python wheel 前，先核对包内文件与 RECORD](2026/10-October/open-source/2026-10-23-python-wheel-record-auditor.md)
 - [2026-10-22 — 发布前做一份可核验清单：版本、测试、变更与回滚边界](2026/10-October/engineering/2026-10-22-release-evidence-checklist.md)
@@ -40,6 +41,7 @@
 
 ## 按日期浏览
 
+- [2026-10-25](INDEX_BY_DATE.md#2026-10-25)
 - [2026-10-24](INDEX_BY_DATE.md#2026-10-24)
 - [2026-10-23](INDEX_BY_DATE.md#2026-10-23)
 - [2026-10-22](INDEX_BY_DATE.md#2026-10-22)

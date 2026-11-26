@@ -1,5 +1,9 @@
 # 按日期索引
 
+## 2026-10-25
+
+- [Agent 工作流别只记最终答案：用 trace_id 串起工具调用](2026/10-October/trends/2026-10-25-agent-workflow-trace-context.md) — trends
+
 ## 2026-10-24
 
 - [Python 长任务如何优雅停机：完成当前任务，再从结果文件续跑](2026/10-October/engineering/2026-10-24-python-graceful-shutdown-batch-jobs.md) — engineering
