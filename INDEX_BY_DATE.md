@@ -1,3 +1,7 @@
+## 2026-10-26
+
+- [批量重命名前先做计划：用 Python 预览冲突并回滚](2026/10-October/python/2026-10-26-python-safe-batch-rename.md) — python
+
 # 按日期索引
 
 ## 2026-10-25

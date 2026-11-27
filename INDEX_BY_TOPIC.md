@@ -2,6 +2,7 @@
 
 ## Python
 
+- 2026-10-26 — [批量重命名前先做计划：用 Python 预览冲突并回滚](2026/10-October/python/2026-10-26-python-safe-batch-rename.md)
 - 2026-10-20 — [批量处理 CSV 前先验证列名：避免静默丢数据](2026/10-October/python/2026-10-20-csv-header-validation.md)
 - 2026-10-12 — [处理大文件别一次性读入内存：用 Python 流式校验 JSONL](2026/10-October/python/2026-10-12-jsonl-stream-validation.md)
 - 2026-10-05 — [file deduplicator](2026/10-October/python/2026-10-05-file-deduplicator.md)
