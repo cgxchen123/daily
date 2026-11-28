@@ -1,3 +1,7 @@
+## 2026-10-27
+
+- [AI 工具调用先做离线回放：用 JSONL 回归适配器](2026/10-October/ai-tools/2026-10-27-ai-tool-call-offline-replay.md) — ai-tools
+
 ## 2026-10-26
 
 - [批量重命名前先做计划：用 Python 预览冲突并回滚](2026/10-October/python/2026-10-26-python-safe-batch-rename.md) — python

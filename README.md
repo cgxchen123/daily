@@ -4,15 +4,16 @@
 
 ## 仓库统计
 
-- 总文章数：301
-- 最后更新：2026-11-27（最新归档文章日期：2026-10-26）
+- 总文章数：302
+- 最后更新：2026-11-28（最新归档文章日期：2026-10-27）
 - 覆盖分类：python、ai-tools、security、git-github、automation、open-source、engineering、trends
-- 分类统计：python 42、ai-tools 36、security 35、git-github 35、automation 36、open-source 35、engineering 43、trends 39
+- 分类统计：python 42、ai-tools 37、security 35、git-github 35、automation 36、open-source 35、engineering 43、trends 39
 - 起始日期：2026-01-01
-- 日期覆盖：2026-01-01 至 2026-10-26，共 299 个已覆盖自然日；现有文章文件 301 篇。当前仍缺 2026-10-27 至 2026-11-27 的 32 个自然日；历史文件中 2026-10-07（2 篇）、2026-10-11（2 篇），未擅自删除历史文件。
+- 日期覆盖：2026-01-01 至 2026-10-27，共 300 个已覆盖自然日；现有文章文件 302 篇。当前仍缺 2026-10-28 至 2026-11-28 的 32 个自然日；历史文件中 2026-10-07（2 篇）、2026-10-11（2 篇），未擅自删除历史文件。
 
 ## 最新文章
 
+- [2026-10-27 — AI 工具调用先做离线回放：用 JSONL 回归适配器](2026/10-October/ai-tools/2026-10-27-ai-tool-call-offline-replay.md)
 - [2026-10-26 — 批量重命名前先做计划：用 Python 预览冲突并回滚](2026/10-October/python/2026-10-26-python-safe-batch-rename.md)
 - [2026-10-25 — Agent 工作流别只记最终答案：用 trace_id 串起工具调用](2026/10-October/trends/2026-10-25-agent-workflow-trace-context.md)
 - [2026-10-24 — Python 长任务如何优雅停机：完成当前任务，再从结果文件续跑](2026/10-October/engineering/2026-10-24-python-graceful-shutdown-batch-jobs.md)
@@ -27,7 +28,6 @@
 - [2026-10-15 — 提交前先看清改了什么：用 Git diff 降低误提交](2026/10-October/git-github/2026-10-15-review-staged-diff.md)
 - [2026-10-14 — 避免把 API 密钥写进仓库：用环境变量与启动前检查](2026/10-October/security/2026-10-14-environment-secret-check.md)
 - [2026-10-13 — 让模型输出 JSON 更可靠：把解析、校验和重试分开](2026/10-October/ai-tools/2026-10-13-llm-json-contract.md)
-- [2026-10-12 — 处理大文件别一次性读入内存：用 Python 流式校验 JSONL](2026/10-October/python/2026-10-12-jsonl-stream-validation.md)
 
 ## 按主题浏览
 
@@ -42,6 +42,7 @@
 
 ## 按日期浏览
 
+- [2026-10-27](INDEX_BY_DATE.md#2026-10-27)
 - [2026-10-26](INDEX_BY_DATE.md#2026-10-26)
 - [2026-10-25](INDEX_BY_DATE.md#2026-10-25)
 - [2026-10-24](INDEX_BY_DATE.md#2026-10-24)

@@ -47,6 +47,8 @@
 
 ## AI Tools
 
+- 2026-10-27 — [AI 工具调用先做离线回放：用 JSONL 回归适配器](2026/10-October/ai-tools/2026-10-27-ai-tool-call-offline-replay.md)
+
 - 2026-10-13 — [让模型输出 JSON 更可靠：把解析、校验和重试分开](2026/10-October/ai-tools/2026-10-13-llm-json-contract.md)
 - 2026-10-06 — [ai output contract](2026/10-October/ai-tools/2026-10-06-ai-output-contract.md)
 - 2026-10-02 — [为模型输出保留人工停止开关](2026/10-October/ai-tools/2026-10-02-为模型输出保留人工停止开关.md)
